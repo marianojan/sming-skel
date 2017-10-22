@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceRoot}/lib",
+                "${workspaceRoot}/include",
+                "${workspaceRoot}",
+                "/opt/esp-open-sdk/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.5/include",
+                "/opt/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/include/c++/4.8.5/",
+                "/opt/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/include/c++/4.8.5/xtensa-lx106-elf/",
+                "/opt/esp-open-sdk/sdk/include",
+                "/opt/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/include",
+                "/opt/Sming/Sming",
+                "/opt/Sming/Sming/SmingCore",
+                "/opt/Sming/Sming/system/include",
+                "/opt/Sming/Sming/Wiring",
+                "/opt/Sming/Sming/third-party/axtls-8266",
+                "/opt/Sming/Sming/third-party/spiffs/src/",
+                "/opt/Sming/Sming/third-party/axtls-8266/crypto/",
+                "/opt/Sming/Sming/third-party/rboot/appcode/",
+                "/opt/Sming/Sming/third-party/rboot",
+                "/opt/Sming/Sming/SmingCore/Network/"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "databaseFilename": "${workspaceRoot}/.vscode/browse.vc.db",
+                "path": [
+                    "${workspaceRoot}/lib",
+                    "${workspaceRoot}/include",
+                    "${workspaceRoot}",
+                    "/opt/esp-open-sdk/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.5/include",
+                    "/opt/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/include/c++/4.8.5/",
+                    "/opt/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/include/c++/4.8.5/xtensa-lx106-elf/",
+                    "/opt/esp-open-sdk/sdk/include",
+                    "/opt/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/include",
+                    "/opt/Sming/Sming",
+                    "/opt/Sming/Sming/SmingCore",
+                    "/opt/Sming/Sming/system/include",
+                    "/opt/Sming/Sming/Wiring",
+                    "/opt/Sming/Sming/third-party/axtls-8266/",
+                    "/opt/Sming/Sming/third-party/spiffs/src/",
+                    "/opt/Sming/Sming/third-party/axtls-8266/crypto/",
+                    "/opt/Sming/Sming/third-party/rboot/appcode/",
+                    "/opt/Sming/Sming/third-party/rboot",
+                    "/opt/Sming/Sming/SmingCore/Network/"
+                ]
+            },
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 3
+}

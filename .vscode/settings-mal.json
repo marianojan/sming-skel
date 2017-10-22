@@ -1,0 +1,20 @@
+{
+    "emeraldwalk.runonsave": {
+      "commands": [
+        {
+          "match": "\\.{c|cpp|h|hpp}$",
+          "isAsync": true,
+          "cmd": "gtags ${workspaceRoot}"
+        }
+      ]
+    },
+    "files.associations": {
+      "*.ipp": "cpp",
+      "*.tcc": "cpp",
+      "slist": "cpp",
+      "array": "cpp",
+      "rope": "cpp",
+      "initializer_list": "cpp",
+      "valarray": "cpp"
+    }
+  }

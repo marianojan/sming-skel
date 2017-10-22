@@ -1,0 +1,10 @@
+# Sming
+out
+
+# development
+GTAGS
+GRTAGS
+GPATH
+GSYMS
+
+browse.vc*
